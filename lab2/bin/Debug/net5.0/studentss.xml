@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudents xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Students>
+    <StudentID>1</StudentID>
+    <FullName>Петренко Петро Петрович</FullName>
+    <Group>C1</Group>
+    <DateOfBirth>2000-01-01T00:00:00</DateOfBirth>
+    <AverageMark>90.3</AverageMark>
+    <Curator>
+      <HeadCuratorID>1</HeadCuratorID>
+      <FullName>Іванов Іван Іванович</FullName>
+      <Position>Доцент кафедри програмування</Position>
+    </Curator>
+  </Students>
+  <Students>
+    <StudentID>2</StudentID>
+    <FullName>Іваненко Іван Іванович</FullName>
+    <Group>C1</Group>
+    <DateOfBirth>1999-02-18T00:00:00</DateOfBirth>
+    <AverageMark>97.3</AverageMark>
+    <Curator>
+      <HeadCuratorID>1</HeadCuratorID>
+      <FullName>Іванов Іван Іванович</FullName>
+      <Position>Доцент кафедри програмування</Position>
+    </Curator>
+  </Students>
+  <Students>
+    <StudentID>3</StudentID>
+    <FullName>Василенко Василь Васильович</FullName>
+    <Group>C1</Group>
+    <DateOfBirth>1998-02-10T00:00:00</DateOfBirth>
+    <AverageMark>91.5</AverageMark>
+    <Curator>
+      <HeadCuratorID>1</HeadCuratorID>
+      <FullName>Іванов Іван Іванович</FullName>
+      <Position>Доцент кафедри програмування</Position>
+    </Curator>
+  </Students>
+  <Students>
+    <StudentID>4</StudentID>
+    <FullName>Кіт Іван Сергійович</FullName>
+    <Group>C1</Group>
+    <DateOfBirth>2000-08-09T00:00:00</DateOfBirth>
+    <AverageMark>93.3</AverageMark>
+    <Curator>
+      <HeadCuratorID>2</HeadCuratorID>
+      <FullName>Петров Петро Петрович</FullName>
+      <Position>Професор кафедри програмування</Position>
+    </Curator>
+  </Students>
+  <Students>
+    <StudentID>5</StudentID>
+    <FullName>Квітка Мілана Йосипівна</FullName>
+    <Group>A1</Group>
+    <DateOfBirth>2000-02-03T00:00:00</DateOfBirth>
+    <AverageMark>96.4</AverageMark>
+    <Curator>
+      <HeadCuratorID>3</HeadCuratorID>
+      <FullName>Сидорова Анна Михайлівна</FullName>
+      <Position>Доцент кафедри інженерія</Position>
+    </Curator>
+  </Students>
+  <Students>
+    <StudentID>6</StudentID>
+    <FullName>Чорний Степан Андрійович</FullName>
+    <Group>A3</Group>
+    <DateOfBirth>2001-12-12T00:00:00</DateOfBirth>
+    <AverageMark>98.9</AverageMark>
+    <Curator>
+      <HeadCuratorID>4</HeadCuratorID>
+      <FullName>Ковальов Олексій Петрович</FullName>
+      <Position>Професор кафедри фізики</Position>
+    </Curator>
+  </Students>
+  <Students>
+    <StudentID>7</StudentID>
+    <FullName>Вишневський Андрій Данилович</FullName>
+    <Group>A1</Group>
+    <DateOfBirth>2000-01-21T00:00:00</DateOfBirth>
+    <AverageMark>90.7</AverageMark>
+    <Curator>
+      <HeadCuratorID>5</HeadCuratorID>
+      <FullName>Лещенко Віталій Ігорович</FullName>
+      <Position>Професор кафедри історії</Position>
+    </Curator>
+  </Students>
+  <Students>
+    <StudentID>8</StudentID>
+    <FullName>Сосиска Миколай Ігоревич</FullName>
+    <Group>B1</Group>
+    <DateOfBirth>1999-11-11T00:00:00</DateOfBirth>
+    <AverageMark>95.8</AverageMark>
+    <Curator>
+      <HeadCuratorID>6</HeadCuratorID>
+      <FullName>Павленко Олег Олександрович</FullName>
+      <Position>Доцент кафедри економіки</Position>
+    </Curator>
+  </Students>
+  <Students>
+    <StudentID>9</StudentID>
+    <FullName>Житній Олег Петрович</FullName>
+    <Group>C1</Group>
+    <DateOfBirth>2000-09-04T00:00:00</DateOfBirth>
+    <AverageMark>99.8</AverageMark>
+    <Curator>
+      <HeadCuratorID>2</HeadCuratorID>
+      <FullName>Петров Петро Петрович</FullName>
+      <Position>Професор кафедри програмування</Position>
+    </Curator>
+  </Students>
+  <Students>
+    <StudentID>10</StudentID>
+    <FullName>Самійленко Ірина Володимирівна</FullName>
+    <Group>D1</Group>
+    <DateOfBirth>1998-10-03T00:00:00</DateOfBirth>
+    <AverageMark>99.9</AverageMark>
+    <Curator>
+      <HeadCuratorID>3</HeadCuratorID>
+      <FullName>Сидорова Анна Михайлівна</FullName>
+      <Position>Доцент кафедри інженерія</Position>
+    </Curator>
+  </Students>
+  <Students>
+    <StudentID>11</StudentID>
+    <FullName>Нечепура Стефанія Григорівна</FullName>
+    <Group>B2</Group>
+    <DateOfBirth>1999-07-02T00:00:00</DateOfBirth>
+    <AverageMark>92.2</AverageMark>
+    <Curator>
+      <HeadCuratorID>2</HeadCuratorID>
+      <FullName>Петров Петро Петрович</FullName>
+      <Position>Професор кафедри програмування</Position>
+    </Curator>
+  </Students>
+  <Students>
+    <StudentID>12</StudentID>
+    <FullName>Борисенко Ольга Дмитрівна</FullName>
+    <Group>B3</Group>
+    <DateOfBirth>2001-01-02T00:00:00</DateOfBirth>
+    <AverageMark>94.9</AverageMark>
+    <Curator>
+      <HeadCuratorID>3</HeadCuratorID>
+      <FullName>Сидорова Анна Михайлівна</FullName>
+      <Position>Доцент кафедри інженерія</Position>
+    </Curator>
+  </Students>
+  <Students>
+    <StudentID>13</StudentID>
+    <FullName>Клин Богдан Вадимович</FullName>
+    <Group>D2</Group>
+    <DateOfBirth>2000-08-10T00:00:00</DateOfBirth>
+    <AverageMark>93.1</AverageMark>
+    <Curator>
+      <HeadCuratorID>4</HeadCuratorID>
+      <FullName>Ковальов Олексій Петрович</FullName>
+      <Position>Професор кафедри фізики</Position>
+    </Curator>
+  </Students>
+  <Students>
+    <StudentID>14</StudentID>
+    <FullName>Черешня Артем Артемович</FullName>
+    <Group>B3</Group>
+    <DateOfBirth>1999-03-29T00:00:00</DateOfBirth>
+    <AverageMark>99.3</AverageMark>
+    <Curator>
+      <HeadCuratorID>5</HeadCuratorID>
+      <FullName>Лещенко Віталій Ігорович</FullName>
+      <Position>Професор кафедри історії</Position>
+    </Curator>
+  </Students>
+  <Students>
+    <StudentID>15</StudentID>
+    <FullName>Солома Ярослав Романович</FullName>
+    <Group>C1</Group>
+    <DateOfBirth>2002-07-02T00:00:00</DateOfBirth>
+    <AverageMark>97.3</AverageMark>
+    <Curator>
+      <HeadCuratorID>2</HeadCuratorID>
+      <FullName>Петров Петро Петрович</FullName>
+      <Position>Професор кафедри програмування</Position>
+    </Curator>
+  </Students>
+</ArrayOfStudents>
