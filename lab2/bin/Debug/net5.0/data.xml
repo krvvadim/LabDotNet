@@ -1,0 +1,393 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Container>
+	<HeadCuratorList>
+		<HeadCurators>
+			<HeadCuratorID>1</HeadCuratorID>
+			<FullName>Іванов Іван Іванович</FullName>
+			<Position>Доцент кафедри програмування</Position>
+		</HeadCurators>
+		<HeadCurators>
+			<HeadCuratorID>2</HeadCuratorID>
+			<FullName>Петров Петро Петрович</FullName>
+			<Position>Професор кафедри програмування</Position>
+		</HeadCurators>
+		<HeadCurators>
+			<HeadCuratorID>3</HeadCuratorID>
+			<FullName>Сидорова Анна Михайлівна</FullName>
+			<Position>Доцент кафедри інженерія</Position>
+		</HeadCurators>
+		<HeadCurators>
+			<HeadCuratorID>4</HeadCuratorID>
+			<FullName>Ковальов Олексій Петрович</FullName>
+			<Position>Професор кафедри фізики</Position>
+		</HeadCurators>
+		<HeadCurators>
+			<HeadCuratorID>5</HeadCuratorID>
+			<FullName>Лещенко Віталій Ігорович</FullName>
+			<Position>Професор кафедри історії</Position>
+		</HeadCurators>
+		<HeadCurators>
+			<HeadCuratorID>6</HeadCuratorID>
+			<FullName>Павленко Олег Олександрович</FullName>
+			<Position>Доцент кафедри економіки</Position>
+		</HeadCurators>
+	</HeadCuratorList>
+	<StudentList>
+		<Students>
+			<StudentID>1</StudentID>
+			<FullName>Петренко Петро Петрович</FullName>
+			<Group>C1</Group>
+			<DateOfBirth>2000-01-01</DateOfBirth>
+			<AverageMark>90</AverageMark>
+			<CuratorID>1</CuratorID>
+		</Students>
+		<Students>
+			<StudentID>2</StudentID>
+			<FullName>Іваненко Іван Іванович</FullName>
+			<Group>C1</Group>
+			<DateOfBirth>1999-02-18</DateOfBirth>
+			<AverageMark>97</AverageMark>
+			<CuratorID>1</CuratorID>
+		</Students>
+		<Students>
+			<StudentID>3</StudentID>
+			<FullName>Василенко Василь Васильович</FullName>
+			<Group>C1</Group>
+			<DateOfBirth>1998-02-10</DateOfBirth>
+			<AverageMark>91</AverageMark>
+			<CuratorID>1</CuratorID>
+		</Students>
+		<Students>
+			<StudentID>4</StudentID>
+			<FullName>Кіт Іван Сергійович</FullName>
+			<Group>C1</Group>
+			<DateOfBirth>2000-08-09</DateOfBirth>
+			<AverageMark>93</AverageMark>
+			<CuratorID>2</CuratorID>
+		</Students>
+		<Students>
+			<StudentID>5</StudentID>
+			<FullName>Квітка Мілана Йосипівна</FullName>
+			<Group>A1</Group>
+			<DateOfBirth>2000-02-03</DateOfBirth>
+			<AverageMark>96</AverageMark>
+			<CuratorID>3</CuratorID>
+		</Students>
+		<Students>
+			<StudentID>6</StudentID>
+			<FullName>Чорний Степан Андрійович</FullName>
+			<Group>A3</Group>
+			<DateOfBirth>2001-12-12</DateOfBirth>
+			<AverageMark>98</AverageMark>
+			<CuratorID>4</CuratorID>
+		</Students>
+		<Students>
+			<StudentID>7</StudentID>
+			<FullName>Вишневський Андрій Данилович</FullName>
+			<Group>A1</Group>
+			<DateOfBirth>2000-01-21</DateOfBirth>
+			<AverageMark>90</AverageMark>
+			<CuratorID>5</CuratorID>
+		</Students>
+		<Students>
+			<StudentID>8</StudentID>
+			<FullName>Сосиска Миколай Ігоревич</FullName>
+			<Group>B1</Group>
+			<DateOfBirth>1999-11-11</DateOfBirth>
+			<AverageMark>95</AverageMark>
+			<CuratorID>6</CuratorID>
+		</Students>
+		<Students>
+			<StudentID>9</StudentID>
+			<FullName>Житній Олег Петрович</FullName>
+			<Group>C1</Group>
+			<DateOfBirth>2000-09-04</DateOfBirth>
+			<AverageMark>97</AverageMark>
+			<CuratorID>2</CuratorID>
+		</Students>
+		<Students>
+			<StudentID>10</StudentID>
+			<FullName>Самійленко Ірина Володимирівна</FullName>
+			<Group>D1</Group>
+			<DateOfBirth>1998-10-03</DateOfBirth>
+			<AverageMark>99</AverageMark>
+			<CuratorID>3</CuratorID>
+		</Students>
+		<Students>
+			<StudentID>11</StudentID>
+			<FullName>Нечепура Стефанія Григорівна</FullName>
+			<Group>B2</Group>
+			<DateOfBirth>1999-07-02</DateOfBirth>
+			<AverageMark>92</AverageMark>
+			<CuratorID>2</CuratorID>
+		</Students>
+		<Students>
+			<StudentID>12</StudentID>
+			<FullName>Борисенко Ольга Дмитрівна</FullName>
+			<Group>B3</Group>
+			<DateOfBirth>2001-01-02</DateOfBirth>
+			<AverageMark>94</AverageMark>
+			<CuratorID>3</CuratorID>
+		</Students>
+		<Students>
+			<StudentID>13</StudentID>
+			<FullName>Клин Богдан Вадимович</FullName>
+			<Group>D2</Group>
+			<DateOfBirth>2000-08-10</DateOfBirth>
+			<AverageMark>93</AverageMark>
+			<CuratorID>4</CuratorID>
+		</Students>
+		<Students>
+			<StudentID>14</StudentID>
+			<FullName>Черешня Артем Артемович</FullName>
+			<Group>B3</Group>
+			<DateOfBirth>1999-03-29</DateOfBirth>
+			<AverageMark>92</AverageMark>
+			<CuratorID>5</CuratorID>
+		</Students>
+		<Students>
+			<StudentID>15</StudentID>
+			<FullName>Солома Ярослав Романович</FullName>
+			<Group>C1</Group>
+			<DateOfBirth>2002-07-02</DateOfBirth>
+			<AverageMark>97</AverageMark>
+			<CuratorID>2</CuratorID>
+		</Students>
+	</StudentList>
+	<ThesisList>
+		<Thesis>
+			<ThesisID>1</ThesisID>
+			<Title>Роль штучного інтелекту у сучасному світі</Title>
+			<StudentID>1</StudentID>
+			<CuratorID>1</CuratorID>
+		</Thesis>
+		<Thesis>
+			<ThesisID>2</ThesisID>
+			<Title>Веб-додаток</Title>
+			<StudentID>2</StudentID>
+			<CuratorID>1</CuratorID>
+		</Thesis>
+		<Thesis>
+			<ThesisID>3</ThesisID>
+			<Title>Аналіз мережевих атак на корпоративні системи</Title>
+			<StudentID>3</StudentID>
+			<CuratorID>1</CuratorID>
+		</Thesis>
+		<Thesis>
+			<ThesisID>4</ThesisID>
+			<Title>Розробка ігрової платформи з використанням віртуальної реальності</Title>
+			<StudentID>4</StudentID>
+			<CuratorID>2</CuratorID>
+		</Thesis>
+		<Thesis>
+			<ThesisID>5</ThesisID>
+			<Title>Розробка імітаційної моделі для вивчення технологій управління виробництвом</Title>
+			<StudentID>5</StudentID>
+			<CuratorID>3</CuratorID>
+		</Thesis>
+		<Thesis>
+			<ThesisID>6</ThesisID>
+			<Title>Розгляд астрономічних спостережень та експериментів, які допомагають збільшити знання про космос та розвиток Всесвіту</Title>
+			<StudentID>6</StudentID>
+			<CuratorID>4</CuratorID>
+		</Thesis>
+		<Thesis>
+			<ThesisID>7</ThesisID>
+			<Title>Перехід від феодалізму до капіталізму в Європі</Title>
+			<StudentID>7</StudentID>
+			<CuratorID>5</CuratorID>
+		</Thesis>
+		<Thesis>
+			<ThesisID>8</ThesisID>
+			<Title>Вплив COVID-19 на світову економіку</Title>
+			<StudentID>8</StudentID>
+			<CuratorID>6</CuratorID>
+		</Thesis>
+		<Thesis>
+			<ThesisID>9</ThesisID>
+			<Title>Розробка системи управління проектами на основі Agile методології</Title>
+			<StudentID>9</StudentID>
+			<CuratorID>2</CuratorID>
+		</Thesis>
+		<Thesis>
+			<ThesisID>10</ThesisID>
+			<Title>Аналіз та оптимізація процесу виробництва електронної продукції з використанням методів промислової інженерії</Title>
+			<StudentID>10</StudentID>
+			<CuratorID>3</CuratorID>
+		</Thesis>
+		<Thesis>
+			<ThesisID>11</ThesisID>
+			<Title>Створення програмного забезпечення для автоматизації бухгалтерського обліку</Title>
+			<StudentID>11</StudentID>
+			<CuratorID>2</CuratorID>
+		</Thesis>
+		<Thesis>
+			<ThesisID>12</ThesisID>
+			<Title>Проектування та розробка системи моніторингу та контролю якості виробництва на основі IoT-технологій</Title>
+			<StudentID>12</StudentID>
+			<CuratorID>3</CuratorID>
+		</Thesis>
+		<Thesis>
+			<ThesisID>13</ThesisID>
+			<Title>Дослідження фізичних властивостей наночастинок, їхньої структури та взаємодії з іншими матеріалами</Title>
+			<StudentID>13</StudentID>
+			<CuratorID>4</CuratorID>
+		</Thesis>
+		<Thesis>
+			<ThesisID>14</ThesisID>
+			<Title>Культурні взаємозв'язки між Сходом та Заходом</Title>
+			<StudentID>14</StudentID>
+			<CuratorID>5</CuratorID>
+		</Thesis>
+		<Thesis>
+			<ThesisID>15</ThesisID>
+			<Title>Використання блокчейн технологій в банківській сфері</Title>
+			<StudentID>15</StudentID>
+			<CuratorID>2</CuratorID>
+		</Thesis>
+	</ThesisList>
+	<DisciplineList>
+		<Discipline>
+			<DisciplineID>1</DisciplineID>
+			<Name>Програмування</Name>
+		</Discipline>
+		<Discipline>
+			<DisciplineID>2</DisciplineID>
+			<Name>Фізика</Name>
+		</Discipline>
+		<Discipline>
+			<DisciplineID>3</DisciplineID>
+			<Name>Інженерія</Name>
+		</Discipline>
+		<Discipline>
+			<DisciplineID>4</DisciplineID>
+			<Name>Економіка</Name>
+		</Discipline>
+		<Discipline>
+			<DisciplineID>5</DisciplineID>
+			<Name>Історія</Name>
+		</Discipline>
+	</DisciplineList>
+	<StudentDisciplineList>
+		<StudentDiscipline>
+			<StudID>1</StudID>
+			<DiscID>1</DiscID>
+		</StudentDiscipline>
+		<StudentDiscipline>
+			<StudID>2</StudID>
+			<DiscID>1</DiscID>
+		</StudentDiscipline>
+		<StudentDiscipline>
+			<StudID>3</StudID>
+			<DiscID>1</DiscID>
+		</StudentDiscipline>
+		<StudentDiscipline>
+			<StudID>4</StudID>
+			<DiscID>1</DiscID>
+		</StudentDiscipline>
+		<StudentDiscipline>
+			<StudID>5</StudID>
+			<DiscID>3</DiscID>
+		</StudentDiscipline>
+		<StudentDiscipline>
+			<StudID>6</StudID>
+			<DiscID>2</DiscID>
+		</StudentDiscipline>
+		<StudentDiscipline>
+			<StudID>7</StudID>
+			<DiscID>5</DiscID>
+		</StudentDiscipline>
+		<StudentDiscipline>
+			<StudID>8</StudID>
+			<DiscID>4</DiscID>
+		</StudentDiscipline>
+		<StudentDiscipline>
+			<StudID>9</StudID>
+			<DiscID>1</DiscID>
+		</StudentDiscipline>
+		<StudentDiscipline>
+			<StudID>10</StudID>
+			<DiscID>3</DiscID>
+		</StudentDiscipline>
+		<StudentDiscipline>
+			<StudID>11</StudID>
+			<DiscID>1</DiscID>
+		</StudentDiscipline>
+		<StudentDiscipline>
+			<StudID>12</StudID>
+			<DiscID>3</DiscID>
+		</StudentDiscipline>
+		<StudentDiscipline>
+			<StudID>13</StudID>
+			<DiscID>2</DiscID>
+		</StudentDiscipline>
+		<StudentDiscipline>
+			<StudID>14</StudID>
+			<DiscID>5</DiscID>
+		</StudentDiscipline>
+		<StudentDiscipline>
+			<StudID>15</StudID>
+			<DiscID>1</DiscID>
+		</StudentDiscipline>
+		<StudentDiscipline>
+			<StudID>1</StudID>
+			<DiscID>2</DiscID>
+		</StudentDiscipline>
+		<StudentDiscipline>
+			<StudID>2</StudID>
+			<DiscID>3</DiscID>
+		</StudentDiscipline>
+		<StudentDiscipline>
+			<StudID>3</StudID>
+			<DiscID>3</DiscID>
+		</StudentDiscipline>
+		<StudentDiscipline>
+			<StudID>4</StudID>
+			<DiscID>4</DiscID>
+		</StudentDiscipline>
+		<StudentDiscipline>
+			<StudID>5</StudID>
+			<DiscID>2</DiscID>
+		</StudentDiscipline>
+		<StudentDiscipline>
+			<StudID>6</StudID>
+			<DiscID>1</DiscID>
+		</StudentDiscipline>
+		<StudentDiscipline>
+			<StudID>7</StudID>
+			<DiscID>4</DiscID>
+		</StudentDiscipline>
+		<StudentDiscipline>
+			<StudID>8</StudID>
+			<DiscID>3</DiscID>
+		</StudentDiscipline>
+		<StudentDiscipline>
+			<StudID>9</StudID>
+			<DiscID>2</DiscID>
+		</StudentDiscipline>
+		<StudentDiscipline>
+			<StudID>10</StudID>
+			<DiscID>5</DiscID>
+		</StudentDiscipline>
+		<StudentDiscipline>
+			<StudID>11</StudID>
+			<DiscID>2</DiscID>
+		</StudentDiscipline>
+		<StudentDiscipline>
+			<StudID>12</StudID>
+			<DiscID>5</DiscID>
+		</StudentDiscipline>
+		<StudentDiscipline>
+			<StudID>13</StudID>
+			<DiscID>4</DiscID>
+		</StudentDiscipline>
+		<StudentDiscipline>
+			<StudID>14</StudID>
+			<DiscID>3</DiscID>
+		</StudentDiscipline>
+		<StudentDiscipline>
+			<StudID>15</StudID>
+			<DiscID>3</DiscID>
+		</StudentDiscipline>
+	</StudentDisciplineList>
+</Container>
